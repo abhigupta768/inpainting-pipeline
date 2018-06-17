@@ -21,9 +21,7 @@ usage : run_algo.py input_image output_image [image_mask]
 
 positional arguments:
   input image           Path to image to be infilled
-  output_image          Path to ouput file
-  
-optional arguments:
+  output_image          Path to ouput fill
   image_mask            Path to the mask
 ````
 
